@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 - ⭐ I’m interested in **Radar Systems and Antenna Technology**
 
-<div align="right">
-  <img height="199" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif"  />
+<div align="center">
+  <img height="220" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif"  />
 </div>
 
 <h3 align="left">Connect with me :3</h3>
