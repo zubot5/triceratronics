@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubot5&label=Profile%20views&color=0e75b6&style=flat" alt="zubot5" /> </p>
 
-<div align="center">
-  <img height="220" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif"  />
-</div>
+<img align="right" height="230" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif"  />
 
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 - ⭐ I’m interested in **Radar Systems and Antenna Technology**
