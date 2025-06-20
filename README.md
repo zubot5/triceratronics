@@ -3,17 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubot5&label=Profile%20views&color=0e75b6&style=flat" alt="zubot5" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Data Science**
-- ⭐ I’m interested in **Radar Systems and Antenna Technology**
-
 <div align="center">
   <img height="220" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif"  />
 </div>
 
+- 🌱 I’m currently learning **Machine Learning & Data Science**
+- ⭐ I’m interested in **Radar Systems and Antenna Technology**
+- 🔭 I'm open to **Internships and Project Collaborations**
+
 <h3 align="left">Connect with me :3</h3>
 <p align="left">
 <a href="https://twitter.com/okzubia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okzubia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zubia sarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubia sarang" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/zubia-s-19054629a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubia sarang" height="30" width="40" /></a>
 <a href="https://instagram.com/okzubiaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okzubiaa" height="30" width="40" /></a>
 </p>
 
